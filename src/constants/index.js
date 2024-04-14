@@ -203,26 +203,26 @@ import {
   
   const projects = [
     {
-      name: "E-Com Product Page",
+      name: "E-Com Landing Page",
       description:
-        "A responsive web page which can delete or add the no. of product from the cart and have an  lightbox gallery with an simple and aesthetic look.",
+        "Full responsive mobile and desktop friendly e-commerce web page with very cool animation and UI ."
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "bootstrap",
+          name: "css",
           color: "pink-text-gradient",
         },
         {
-          name: "Material UI",
+          name: "javascript",
           color: "green-text-gradient",
         },
       ],
       image: ecom,
-      source_code_link: "https://github.com/jatinmark/E-commerce-product-page",
-      live_demo_link: "https://e-commerce-product-page-rho.vercel.app/",
+      source_code_link: "https://github.com/jatinmark/Ecom-frontend",
+      live_demo_link: "https://jatinmark.github.io/Ecom-frontend/",
     },
     {
       name: "Messenger App",
@@ -252,9 +252,9 @@ import {
 
     },
     {
-      name: "To Do App",
+      name: "Restaurant Reservation App",
       description:
-        "A simple To do app in which you can track your daily goals and task , powered by mongodb , RestApi & Expressjs with the help of Nodejs.",
+        " Developed a robust restaurant reservation system using Next.js, providing users with an intuitive interface to make reservations, view the menu. Implemented features such as real-time availability updates, user authentication , a comprehensive solution enhancing the dining experience for both customers and restaurant administrators.",
       tags: [
         {
           name: "nodejs",
@@ -265,13 +265,13 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "expressjs",
+          name: "next.js",
           color: "pink-text-gradient",
         },
       ],
       image: todo,
-      source_code_link: "https://github.com/jatinmark/to-do-app",
-      live_demo_link: "https://to-do-app-umhq.onrender.com/",
+      source_code_link: "https://github.com/jatinmark/Next.js-reservation-app-dir-main",
+      live_demo_link: "https://reservation-app-virid.vercel.app",
 
     },
   ];
